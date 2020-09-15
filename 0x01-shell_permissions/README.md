@@ -1,0 +1,1 @@
+This project is about shell permissions and what do the commands chmod, sudo, su, chown, chgrp do.
